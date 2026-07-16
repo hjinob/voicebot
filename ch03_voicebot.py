@@ -67,7 +67,7 @@ def TTS(response):
 ##### 메인 함수 #####
 def main():
     st.set_page_config(
-        page_title="음성 비서 프로그램",
+        page_title="음성 비서 프로그램 by Jinho Han",
         layout="wide")
 
     # session state 초기화
